@@ -1,0 +1,14 @@
+layout_spectrum: 0.3127451599575579
+typography_spectrum: 0.039530512643978
+color:
+  brandStrength: 0.6364021487534046
+  lightness: 0.2725030069705099
+  saturation: 0.19601548789069057
+  rhythmicContrast: 0.2146874782629311
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: smaz
