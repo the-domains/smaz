@@ -1,4 +1,3 @@
-layout_spectrum: 0.3127451599575579
 typography_spectrum: 0.039530512643978
 color:
   brandStrength: 0.6364021487534046
@@ -11,4 +10,9 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-name: smaz
+opengraph:
+  appId: '917870074998178'
+  type: app
+layout_spectrum: 0.3127451599575579
+name: Smaz
+title: witness the sweetness
