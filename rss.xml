@@ -4,8 +4,29 @@
         <description><![CDATA[witness the sweetness]]></description>
         <link>https://thegrid.ai/smaz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 11:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 11:09:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/smaz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7042f628-dd20-4b27-86eb-47b915ffaf32.jpg">]]></description>
+            <link>https://thegrid.ai/smaz/30e70e4a-9421-4a1a-ae11-c91f1f8fa784/index.html</link>
+            <guid isPermaLink="false">30e70e4a-9421-4a1a-ae11-c91f1f8fa784</guid>
+            <pubDate>Fri, 15 Jul 2016 11:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4502226-38ab-45b3-882f-d654046471cd.jpg">]]></description>
+            <link>https://thegrid.ai/smaz/28e566e4-5489-4922-831f-b4644d31d3b1/index.html</link>
+            <guid isPermaLink="false">28e566e4-5489-4922-831f-b4644d31d3b1</guid>
+            <pubDate>Fri, 15 Jul 2016 11:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fd5e237-aaff-49ce-ac03-f03c7f552ad7.jpg">]]></description>
+            <link>https://thegrid.ai/smaz/8af18d6a-3258-4afc-9cf2-178ff0ec16cb/index.html</link>
+            <guid isPermaLink="false">8af18d6a-3258-4afc-9cf2-178ff0ec16cb</guid>
+            <pubDate>Fri, 15 Jul 2016 11:09:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/737ebfc7-07ce-429c-bca0-f50ae2ea774d.jpg">]]></description>
@@ -53,13 +74,6 @@
             <link>http://ukusbeograda.rs/zdravo-zivo-ukusno-i-zdravo-za-poneti/</link>
             <guid isPermaLink="false">f72f1256-3f3e-43a0-9cd0-9af23e39fd1a</guid>
             <pubDate>Fri, 15 Jul 2016 11:09:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a920d55f-d206-45e6-b9aa-a1c9749eb56f.jpg">]]></description>
-            <link>https://thegrid.ai/smaz/fd00ce57-a924-4878-bba6-a5a44717d1de/index.html</link>
-            <guid isPermaLink="false">fd00ce57-a924-4878-bba6-a5a44717d1de</guid>
-            <pubDate>Fri, 15 Jul 2016 11:08:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
