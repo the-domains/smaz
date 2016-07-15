@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[witness the sweetness]]></title>
         <description><![CDATA[witness the sweetness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/smaz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 11:08:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 11:09:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/smaz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zdravo živo - Ukusno i zdravo za poneti | Ukus Beograda]]></title>
+            <description><![CDATA[<article><h1>Zdravo živo - Ukusno i zdravo za poneti | Ukus Beograda</h1><p>U vremenu u kom živimo brže nego ikad, sve češće čujemo od prijatelja da su odlučili da unesu promene u svoj život, često počinjući od vežbanja i ishrane. Detoksikacija, dijete i režimi ishrane ušunjali su se u naše razgovore i postali sastavni deo života.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/29afaa4ab6749feaedc03e02976c4de8/croprotate.jpg?cropheight=1333&cropwidth=999&degrees=0&input=http%3A%2F%2Fukusbeograda.rs%2Fwp-content%2Fuploads%2F2015%2F06%2F72.jpg&x=0&y=0"></article>]]></description>
+            <link>http://ukusbeograda.rs/zdravo-zivo-ukusno-i-zdravo-za-poneti/</link>
+            <guid isPermaLink="false">f72f1256-3f3e-43a0-9cd0-9af23e39fd1a</guid>
+            <pubDate>Fri, 15 Jul 2016 11:09:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a920d55f-d206-45e6-b9aa-a1c9749eb56f.jpg">]]></description>
-            <link>undefinedfd00ce57-a924-4878-bba6-a5a44717d1de/index.html</link>
+            <link>https://thegrid.ai/smaz/fd00ce57-a924-4878-bba6-a5a44717d1de/index.html</link>
             <guid isPermaLink="false">fd00ce57-a924-4878-bba6-a5a44717d1de</guid>
             <pubDate>Fri, 15 Jul 2016 11:08:26 GMT</pubDate>
         </item>
